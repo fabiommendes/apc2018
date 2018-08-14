@@ -129,8 +129,8 @@ utilizar o pip, faça a instalação de usuário utilizando o comando
 ``pip3 install <pacote> --user`` (NUNCA utilize o sudo junto com --user e evite 
 instalar globalmente para evitar problemas futuros com o APT).
 
-Linux e Docker
---------------
+Linux
+-----
 
 Os comandos de instalação acima assumem uma distribuição de Linux baseada em 
 Debian como o Ubuntu ou o Mint. Não é necessário instalar uma distribuição 
