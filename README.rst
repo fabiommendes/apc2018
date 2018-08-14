@@ -65,7 +65,7 @@ feita através de issues no repositório do Github. Habilite a funcionalidade
 Google Classroom:
     http://classroom.google.com/ - Código de inscrição: 1byukn
 Github:
-    http://github.com/fabiommendes/compiladores/
+    http://github.com/fabiommendes/apc2018/
 
 
 Critérios de avaliação
