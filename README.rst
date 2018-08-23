@@ -147,231 +147,222 @@ Introdução à Programação com Python: Nilo Ney Coutinho Menezes, Novatec, 20
 Cronograma de atividades
 ========================
 
-+--------+-------+--------------------------------------------------------+
-| Semana | Data  |                          Aula                          |
-+========+=======+========================================================+
-| 1      | 13/08 | Início das aulas – Apresentação do curso               |
-+--------+-------+--------------------------------------------------------+
-|        | 14/08 | Linha de comando                                       |
-|        |       |                                                        |
-|        |       | * Linha de comando                                     |
-|        |       | * Python básico: operações básicas e variáveis         |
-+--------+-------+--------------------------------------------------------+
-|        | 15/08 | Algoritmos                                             |
-|        |       |                                                        |
-|        |       | * Definição e histórico                                |
-|        |       | * Fluxogramas                                          |
-|        |       | * Exemplos de resolução de problemas por algoritmos    |
-+--------+-------+--------------------------------------------------------+
-| 2      | 20/08 | Introdução ao Pytuguês                                 |
-|        |       |                                                        |
-|        |       | * Instalação e comandos básicos                        |
-|        |       | * Criando figuras geométricas                          |
-|        |       | * Executando comandos e funções                        |
-+--------+-------+--------------------------------------------------------+
-|        | 21/08 | Estruturas de controle                                 |
-|        |       |                                                        |
-|        |       | * Repetições                                           |
-|        |       | * Condicionais                                         |
-+--------+-------+--------------------------------------------------------+
-|        | 23/08 | Interação com o usuário                                |
-|        |       |                                                        |
-|        |       | * Entrada de dados                                     |
-|        |       | * Criação de scripts                                   |
-+--------+-------+--------------------------------------------------------+
-| 3      | 27/08 | Listas                                                 |
-|        |       |                                                        |
-|        |       | * Acessando elementos da lista                         |
-|        |       | * Iterando sobre listas                                |
-|        |       | * Criando listas dinamicamente                         |
-+--------+-------+--------------------------------------------------------+
-|        | 28/08 | Dicionários                                            |
-|        |       |                                                        |
-|        |       | * Acessando elementos da lista                         |
-|        |       | * Iterando sobre listas                                |
-|        |       | * Criando listas dinamicamente                         |
-+--------+-------+--------------------------------------------------------+
-|        | 30/08 | Strings                                                |
-|        |       |                                                        |
-|        |       | * Manipulação de texto                                 |
-|        |       | * Descobrindo informações sobre strings                |
-|        |       | * Operações básicas                                    |
-|        |       | * Interpolação                                         |
-+--------+-------+--------------------------------------------------------+
++--------+-------+------------------------------------------------------+
+| Semana | Data  |                         Aula                         |
++========+=======+======================================================+
+| 1      | 13/08 | Início das aulas – Apresentação do curso             |
++--------+-------+------------------------------------------------------+
+|        | 14/08 | Linha de comando                                     |
+|        |       |                                                      |
+|        |       | * Linha de comando                                   |
+|        |       | * Python básico: operações básicas e variáveis       |
++--------+-------+------------------------------------------------------+
+|        | 15/08 | Algoritmos                                           |
+|        |       |                                                      |
+|        |       | * Definição e histórico                              |
+|        |       | * Fluxogramas                                        |
+|        |       | * Exemplos de resolução de problemas por algoritmos  |
++--------+-------+------------------------------------------------------+
+| 2      | 20/08 | Introdução ao Pytuguês                               |
+|        |       |                                                      |
+|        |       | * Instalação e comandos básicos                      |
+|        |       | * Criando figuras geométricas                        |
+|        |       | * Executando comandos e funções                      |
++--------+-------+------------------------------------------------------+
+|        | 21/08 | Estruturas de controle                               |
+|        |       |                                                      |
+|        |       | * Repetições (repetir, enquanto, para cada)          |
+|        |       | * Condicionais (se, então, senão)                    |
+|        |       | * Criando figuras regulares e padrões                |
++--------+-------+------------------------------------------------------+
+|        | 23/08 | Interação com o usuário                              |
+|        |       |                                                      |
+|        |       | * Entrada de dados                                   |
+|        |       | * Criação de scripts                                 |
+|        |       | * Figuras sob demanda                                |
++--------+-------+------------------------------------------------------+
+| 3      | 27/08 | Listas                                               |
+|        |       |                                                      |
+|        |       | * Acessando elementos da lista                       |
+|        |       | * Iterando sobre listas                              |
+|        |       | * Criando listas dinamicamente                       |
++--------+-------+------------------------------------------------------+
+|        | 28/08 | Dicionários                                          |
+|        |       |                                                      |
+|        |       | * Acessando elementos de um dicionário               |
+|        |       | * Testando presença de uma determinada chave         |
+|        |       | * Iteração sobre dicionários                         |
+|        |       | * Criando um contador                                |
++--------+-------+------------------------------------------------------+
+|        | 30/08 | Strings                                              |
+|        |       |                                                      |
+|        |       | * Manipulação de texto                               |
+|        |       | * Descobrindo informações sobre strings              |
+|        |       | * Operações básicas                                  |
+|        |       | * Interpolação                                       |
++--------+-------+------------------------------------------------------+
+| 4      | 03/09 | Funções                                              |
+|        |       |                                                      |
+|        |       | * Definindo suas próprias funções                    |
+|        |       | * Reutilização de código                             |
+|        |       | * Documentação de funções                            |
+|        |       | * Construindo a complexidade                         |
++--------+-------+------------------------------------------------------+
+|        | 04/09 | Projeto de Jogos: Pong                               |
+|        |       |                                                      |
+|        |       | * FGAme                                              |
+|        |       | * Noções básicas de física                           |
++--------+-------+------------------------------------------------------+
+|        | 06/09 | Recursão em funções                                  |
+|        |       |                                                      |
+|        |       | * Fractais como estruturas recursivas                |
+|        |       | * Floco de Koch                                      |
++--------+-------+------------------------------------------------------+
+| 5      | 10/09 | **PROVA I:** Pytuguês                                |
+|        |       |                                                      |
+|        |       | * Variáveis e tipos básicos (números e strings)      |
+|        |       | * Estruturas de dados (listas e dicionários)         |
+|        |       | * Controle de fluxo de código (laços e condicionais) |
+|        |       | * Funções                                            |
+|        |       | * Entrada e saída                                    |
++--------+-------+------------------------------------------------------+
+|        | 11/09 | Python                                               |
+|        |       |                                                      |
+|        |       | * Sintaxe do Python                                  |
+|        |       | * Notebooks                                          |
+|        |       | * Scripts                                            |
+|        |       | * Editor de código                                   |
++--------+-------+------------------------------------------------------+
+|        | 13/09 | Entrada/Saída                                        |
+|        |       |                                                      |
+|        |       | * Leitura de entradas do usuário                     |
+|        |       | * Tipos de dados                                     |
+|        |       | * Conversão de tipos                                 |
+|        |       | * Formatação de strings                              |
++--------+-------+------------------------------------------------------+
+| 6      | 17/09 | Laço "for"                                           |
+|        |       |                                                      |
+|        |       | * Iterando sobre objetos                             |
+|        |       | * Funções range e enumerate                          |
+|        |       | * Compreensão de listas                              |
++--------+-------+------------------------------------------------------+
+|        | 18/09 | Arquivos                                             |
+|        |       |                                                      |
+|        |       | * Leitura de arquivos                                |
+|        |       | * Escrevendo arquivos                                |
+|        |       | * Bloco "with"                                       |
++--------+-------+------------------------------------------------------+
+|        | 20/09 | Representação de inteiros                            |
+|        |       |                                                      |
+|        |       | * Representação binária, octal e hexadecimal         |
+|        |       | * Conversão de representações                        |
+|        |       | * Literais de binários, octais e hexadecimais        |
+|        |       | * Máscaras de bits                                   |
++--------+-------+------------------------------------------------------+
+| 7      | 24/09 | Semana universitária                                 |
++--------+-------+------------------------------------------------------+
+|        | 25/09 |                                                      |
++--------+-------+------------------------------------------------------+
+|        | 27/09 |                                                      |
++--------+-------+------------------------------------------------------+
+| 8      | 01/10 | Recursão                                             |
+|        |       |                                                      |
+|        |       | * Funções recursivas                                 |
+|        |       | * Recursão vs iteração                               |
+|        |       | * Fibonacci e fatorial                               |
++--------+-------+------------------------------------------------------+
+|        | 02/10 | Análise de complexidade                              |
+|        |       |                                                      |
+|        |       | * Estrapolando o tempo de execução                   |
+|        |       | * Memória vs. CPU                                    |
+|        |       | * Controlando tempo de execução de programas         |
++--------+-------+------------------------------------------------------+
+|        | 04/10 | Laboratório: Sequência de Collatz                    |
+|        |       |                                                      |
+|        |       | * Recursão fundamental vs contingencial              |
+|        |       | * Problema da computabilidade                        |
+|        |       | * Programação dinâmica com o "lru_cache"             |
++--------+-------+------------------------------------------------------+
 
-.. todo
-    +--------+-------+--------------------------------------------------------+
-    | 4      | 30/08 | Análise sintática                                      |
-    |        |       |                                                        |
-    |        |       | * Gramática                                            |
-    |        |       | * Especificação de regras gramaticais                  |
-    |        |       | * Hierarquia de linguagens                             |
-    |        |       | * Sintaxe vs semântica                                 |
-    +--------+-------+--------------------------------------------------------+
-    |        | 29/03 | Laboratório de análise sintática: Gerador de lero lero |
-    |        |       |                                                        |
-    |        |       | * Formalização de uma gramática                        |
-    |        |       | * Produções válidas                                    |
-    |        |       | * Gerador de textos aleatórios                         |
-    +--------+-------+--------------------------------------------------------+
-    | 5      | 03/04 | Gramáticas livres de contexto                          |
-    |        |       |                                                        |
-    |        |       | * Regras de produção                                   |
-    |        |       | * Sintaxe do Ox                                        |
-    |        |       | * Calculadora                                          |
-    +--------+-------+--------------------------------------------------------+
-    |        | 05/04 | Árvores sintáticas e representação de código           |
-    |        |       |                                                        |
-    |        |       | * S-expressions                                        |
-    |        |       | * ADTs                                                 |
-    |        |       | * Classes                                              |
-    +--------+-------+--------------------------------------------------------+
-    | 6      | 10/04 | Laboratório: Calculadora avançada                      |
-    |        |       |                                                        |
-    |        |       | * Operadores e expressões                              |
-    |        |       | * Representação intermediária                          |
-    |        |       | * Precedência                                          |
-    |        |       | * Análise semântica                                    |
-    +--------+-------+--------------------------------------------------------+
-    |        | 12/04 | Emissão de código                                      |
-    |        |       |                                                        |
-    |        |       | * Representação intermediária                          |
-    |        |       | * Geração de código                                    |
-    |        |       | * Controle de formatação e indentação                  |
-    |        |       | * Funções auxiliares para emissão de código no Ox      |
-    +--------+-------+--------------------------------------------------------+
-    | 7      | 17/04 | Gramática do Python                                    |
-    |        |       |                                                        |
-    |        |       | * Tokenizador                                          |
-    |        |       | * Arquivo de gramática                                 |
-    |        |       | * Árvore sintática de um código “vivo”                 |
-    |        |       | * Gramática do Python no Ox                            |
-    +--------+-------+--------------------------------------------------------+
-    |        | 19/04 | Desenho de linguagens de programação                   |
-    |        |       | * Expressões e declarações                             |
-    |        |       | * Mutabilidade                                         |
-    |        |       | * Escopo                                               |
-    |        |       | * Sistema de tipos                                     |
-    |        |       | * Estruturas de controle                               |
-    +--------+-------+--------------------------------------------------------+
-    | 8      | 24/04 | Projeto: Linguagem funcional                           |
-    |        |       |                                                        |
-    |        |       | * Sintaxe, semântica e sistema de tipos                |
-    |        |       | * Integração com o Python                              |
-    |        |       | * Estruturas de controle básicas                       |
-    |        |       | * Recursos para programação funcional                  |
-    |        |       | * Exemplos de programas                                |
-    +--------+-------+--------------------------------------------------------+
-    |        | 26/04 | **Avaliação: Lexer e parser**                          |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    | 9      | 01/05 | *Feriado - Dia do Trabalho*                            |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    |        | 03/05 | Autômatos                                              |
-    |        |       |                                                        |
-    |        |       | * Introdução a autômatos                               |
-    |        |       | * Autômato determinístico finito                       |
-    |        |       | * Autômatos para linguagens regulares                  |
-    +--------+-------+--------------------------------------------------------+
-    | 10     | 08/05 | Hierarquia de Chomsky                                  |
-    |        |       |                                                        |
-    |        |       | * Modelos de computação                                |
-    |        |       | * Tipos de autômatos                                   |
-    |        |       | * Hierarquia de linguagens formais                     |
-    |        |       | * Máquina de Turing                                    |
-    +--------+-------+--------------------------------------------------------+
-    |        | 10/05 | Laboratório: JSON                                      |
-    |        |       |                                                        |
-    |        |       | * Gramática como autômato                              |
-    |        |       | * Separação entre a análise léxica e sintática         |
-    |        |       | * Implementação do JSON em Ox                          |
-    +--------+-------+--------------------------------------------------------+
-    | 11     | 17/05 | Cremilda: Lexer                                        |
-    |        |       |                                                        |
-    |        |       | * Tipos atômicos (numerais, strings, etc)              |
-    |        |       | * Símbolos                                             |
-    |        |       | * Operadores e delimitadores                           |
-    +--------+-------+--------------------------------------------------------+
-    |        | 19/05 | Cremilda: Expressões e declarações simples             |
-    |        |       |                                                        |
-    |        |       | * Chamada de função                                    |
-    |        |       | * Tradução para Python                                 |
-    |        |       | * Aninhamento                                          |
-    |        |       | * Declarações                                          |
-    +--------+-------+--------------------------------------------------------+
-    | 12     | 22/05 | Cremilda: Estruturas condicionais simples              |
-    |        |       |                                                        |
-    |        |       | * Linguagem baseada em expressões                      |
-    |        |       | * Palavras reservadas                                  |
-    |        |       | * Operadores booleanos "curto-circuito"                |
-    |        |       | * Condicional if/else                                  |
-    +--------+-------+--------------------------------------------------------+
-    |        | 24/05 | **Avaliação: gramáticas livres de contexto**           |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    | 13     | 29/05 | Checagem de tipos                                      |
-    |        |       |                                                        |
-    |        |       | * Sistemas de tipos                                    |
-    |        |       | * Coerções                                             |
-    |        |       | * Polimorfismo                                         |
-    |        |       | * Type dispatch                                        |
-    +--------+-------+--------------------------------------------------------+
-    |        | 31/05 | *Feriado - Corpus Christi*                             |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    | 14     | 05/06 | Cremilda: declaração de tipos                          |
-    |        |       |                                                        |
-    |        |       | * Aliases                                              |
-    |        |       | * Union types                                          |
-    |        |       | * Tuplas                                               |
-    +--------+-------+--------------------------------------------------------+
-    |        | 07/06 | Cremilda: Criação de tipos dinâmica                    |
-    |        |       |                                                        |
-    |        |       | * Classes dinâmicas                                    |
-    |        |       | * Dicionário de tipos                                  |
-    |        |       | * Tipos na biblioteca Sidekick                         |
-    +--------+-------+--------------------------------------------------------+
-    | 15     | 12/06 | Cremilda: declaração de módulos                        |
-    |        |       |                                                        |
-    |        |       | * Símbolos públicos                                    |
-    |        |       | * Imports                                              |
-    |        |       | * Integração com o Python                              |
-    +--------+-------+--------------------------------------------------------+
-    |        | 14/06 | Cremilda: runtime                                      |
-    |        |       |                                                        |
-    |        |       | * Tipos e funções nativas                              |
-    |        |       | * Módulos padrão                                       |
-    |        |       | * Compilação para Python                               |
-    +--------+-------+--------------------------------------------------------+
-    | 16     | 19/06 | Máquinas virtuais                                      |
-    |        |       |                                                        |
-    |        |       | * Objetivos de compilação                              |
-    |        |       | * Máquina virtual Python                               |
-    |        |       | * Leitura de Bytcodes                                  |
-    |        |       | * Manipulação de Bytcodes                              |
-    +--------+-------+--------------------------------------------------------+
-    |        | 21/06 | Cremilda: blocos let                                   |
-    |        |       |                                                        |
-    |        |       | * Atribuição de variáveis                              |
-    |        |       | * Controle de escopo                                   |
-    |        |       | * Forma SSA                                            |
-    |        |       | * Descontrutores                                       |
-    +--------+-------+--------------------------------------------------------+
-    | 17     | 26/06 | Cremilda: blocos case                                  |
-    |        |       |                                                        |
-    |        |       | * Despacho por tipo e sub-tipo                         |
-    |        |       | * Switch/case                                          |
-    |        |       | * Desconstrutores                                      |
-    +--------+-------+--------------------------------------------------------+
-    |        | 28/06 | **Avaliação Final**                                    |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    | 18     | 03/07 | Livre                                                  |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
-    |        | 05/07 | Revisão de nota                                        |
-    |        |       |                                                        |
-    +--------+-------+--------------------------------------------------------+
++--------+-------+------------------------------------------------------+
+| 14     | 05/11 | Introdução ao C                                      |
+|        |       |                                                      |
+|        |       | * Sintaxe básica do C                                |
+|        |       | * Estrutura de um arquivo C                          |
+|        |       | * Tipos de variávies                                 |
+|        |       | * Interação com Python                               |
++--------+-------+------------------------------------------------------+
+|        | 06/11 | Entrada e Saída                                      |
+|        |       |                                                      |
+|        |       | * Função printf e scanf                              |
+|        |       | * Operadores de formatação                           |
+|        |       | * Includes                                           |
++--------+-------+------------------------------------------------------+
+|        | 08/11 | Declaração de funções                                |
+|        |       |                                                      |
+|        |       | * Assinatura e protótipo da função                   |
+|        |       | * Tipagem estática                                   |
+|        |       | * Função main()                                      |
++--------+-------+------------------------------------------------------+
+| 15     | 12/11 | Tipagem estática                                     |
+|        |       |                                                      |
+|        |       | * Tipos das variáveis                                |
+|        |       | * Tipos numéricos                                    |
+|        |       | * Outros tipos básicos do C                          |
++--------+-------+------------------------------------------------------+
+|        | 13/11 | Números de ponto flutuante                           |
+|        |       |                                                      |
+|        |       | * Ponto fixo                                         |
+|        |       | * Ponto flutuante e notação científica               |
+|        |       | * Ponto flutuante binário                            |
++--------+-------+------------------------------------------------------+
+|        | 15/11 | **Feriado:** Proclamação da República                |
++--------+-------+------------------------------------------------------+
+| 16     | 19/11 | Laço "while"                                         |
+|        |       |                                                      |
+|        |       | * Sintaxe básica                                     |
+|        |       | * Variáveis contadoras e acumuladoras                |
+|        |       | * Quebra de laços                                    |
++--------+-------+------------------------------------------------------+
+|        | 20/11 | Laço "for"                                           |
+|        |       |                                                      |
+|        |       | * Sintaxe básica                                     |
+|        |       | * Índices e contadores                               |
+|        |       | * Equivalência entre "for" e while                   |
++--------+-------+------------------------------------------------------+
+|        | 22/11 | Arrays                                               |
+|        |       |                                                      |
+|        |       | * Criação de arrays                                  |
+|        |       | * Acesso a elementos                                 |
+|        |       | * Overflow                                           |
+|        |       | * Comparação com listas                              |
++--------+-------+------------------------------------------------------+
+| 17     | 26/09 | Structs                                              |
+|        |       |                                                      |
+|        |       | * Tipos de dados compostos                           |
+|        |       | * Acessando campos de um struct                      |
+|        |       | * Interação com o Python                             |
++--------+-------+------------------------------------------------------+
+|        | 27/11 | Processamento de dados em C                          |
+|        |       |                                                      |
+|        |       | * Iteração sobre arrays                              |
+|        |       | * Calculando médias                                  |
+|        |       | * Filtrando elementos                                |
+|        |       | * Comparação de performance                          |
++--------+-------+------------------------------------------------------+
+|        | 29/11 | **PROVA III:** C                                     |
+|        |       |                                                      |
+|        |       | * Funções recursivas                                 |
+|        |       | * Recursão vs iteração                               |
+|        |       | * Fibonacci e fatorial                               |
++--------+-------+------------------------------------------------------+
+| 18     | 03/12 | Revisão de nota                                      |
++--------+-------+------------------------------------------------------+
+|        | 04/12 | Entrega de projeto web                               |
++--------+-------+------------------------------------------------------+
+|        | 06/12 | Prova substitutiva                                   |
++--------+-------+------------------------------------------------------+
+
+
 
 Obs.: O cronograma está sujeito a alterações.
