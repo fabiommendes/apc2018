@@ -1,0 +1,22 @@
+limpar()
+
+ls1 = list("fefefe")
+ls2 = ls1.copy()
+ls2.reverse()
+
+comandos = (ls1 + ls2 + ['e']) * 6
+
+angulo = 60
+para cada comando em comandos:
+    se comando == "f":
+        frente(100)
+    ou então se comando == "t":
+        trás(100)
+    ou então se comando == "e":
+        esquerda(angulo)
+    ou então se comando == "d":
+        direita(angulo)
+    senão:
+        print(comando)
+    
+
