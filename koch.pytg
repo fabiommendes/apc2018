@@ -1,0 +1,22 @@
+limpar()
+
+
+definir funcao koch(total, n):
+    dormir(0.01)
+    se n == 0: 
+        frente(total)
+    senão:        
+        lado = total / 3
+        koch(lado, n - 1)
+        esquerda(60)
+        koch(lado, n - 1)
+        direita(120)
+        koch(lado, n - 1)
+        esquerda(60)
+        koch(lado, n - 1)
+
+
+repetir 3 vezes:  
+    koch(400, 4)
+    esquerda(120)
+    dormir(0.2)

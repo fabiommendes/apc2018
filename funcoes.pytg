@@ -1,0 +1,22 @@
+limpar()
+    
+    
+definir função triângulo(lado):
+    repetir 3 vezes:
+        frente(lado)
+        esquerda(120)
+        dormir(0.05)
+
+
+definir função hexágono(lado):
+    repetir 6 vezes:
+        triângulo(lado)
+        triângulo(lado/ 2)
+        esquerda(60)
+
+
+repetir 6 vezes:
+    hexágono(100)
+    frente(200)
+    direita(60)
+    
