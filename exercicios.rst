@@ -1,16 +1,16 @@
 1. Desenhe as seguintes figuras geométricas
     
-    a) Quadrado
-    b) Triângulo de lados iguais
-    c) Triângulo isóceles
-    d) Estrela de 5 pontas
-    e) Estrela de 8 pontas   
-    f) Estrela de Davi
-    g) Triângulo Pitagórico 3, 4, 5
-    h) Figura do Teorema de Pitágoras
+a) Quadrado
+b) Triângulo de lados iguais
+c) Triângulo isóceles
+d) Estrela de 5 pontas
+e) Estrela de 8 pontas   
+f) Estrela de Davi
+g) Triângulo Pitagórico 3, 4, 5
+h) Figura do Teorema de Pitágoras
  
  
-2. Pergunta 2 números a, b e calcula a hipotenusa de um triângulo de lados a e b:
+2. Pergunta 2 números a, b e calcula a hipotenusa de um triângulo de lados a e b::
     
     a: <3>
     b: <4>
@@ -34,7 +34,7 @@ Imprima todas as trincas Pitagóricas com a, b e c menores que 50.
     
 6. Fórmula de propagação de erro de física experimental. O 
 programa deve perguntar 2 números e o erros associados e retornar
-o valor das quatro operações fundamentais com estes dois números:
+o valor das quatro operações fundamentais com estes dois números::
 
     x: <5>
     dx: <0.5>
@@ -50,16 +50,16 @@ e depois imprima o fatorial deste número.
 
 
 8. A raiz quadrada de um número x pode ser calculada pela seguinte fórmula de 
-recorrência:
+recorrência::
 
-    r --> (r**2 + x) / (2 * x),
+    r -> (r**2 + x) / (2 * x),
 
 onde r é tipicamente inicializado com o valor do próprio x. Crie um programa que
 pergunte o valor de x, execute 10 iterações desta fórmula de recorrência e 
 imprima o resultado.
 
 
-9. Podemos calcular a exponencial de um número usando a fórmula de Taylor:
+9. Podemos calcular a exponencial de um número usando a fórmula de Taylor::
 
     exp(x) = 1 + x + x**2 / 2!  +  x**3 / 3!  +  x**4 / 4! + ...
 
