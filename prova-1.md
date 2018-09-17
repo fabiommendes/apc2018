@@ -114,13 +114,13 @@ resultado = 0
 termo = 1
 
 # Pytuguês
-enquanto x < 5:
+enquanto n < 5:
     n = n + 1
     termo = termo * x
     resultado = resultado + termo / n
 
 # Python
-while x < 5:
+while n < 5:
     n = n + 1
     termo = termo * x
     resultado = resultado + termo / n
