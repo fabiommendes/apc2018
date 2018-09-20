@@ -52,7 +52,7 @@ e depois imprima o fatorial deste número.
 8. A raiz quadrada de um número x pode ser calculada pela seguinte fórmula de 
 recorrência::
 
-    r -> (r**2 + x) / (2 * x),
+    r -> (r**2 + x) / (2 * r),
 
 onde r é tipicamente inicializado com o valor do próprio x. Crie um programa que
 pergunte o valor de x, execute 10 iterações desta fórmula de recorrência e 
