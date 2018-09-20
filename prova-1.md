@@ -1,6 +1,6 @@
 # Instruções
 
-1. A prova é individual e as respostas devem ser feitas no papel
+1. A prova é individual e as respostas devem ser enviadas pelo formulário https://docs.google.com/forms/d/e/1FAIpQLSeJ_krbAq3n0G_2IAfudHRZIgbBmLKx5Iq9kK1qjskllxJp7A/viewform
 2. Você pode resolver as questões de programação em Pytuguês, Python ou C
 3. Você pode utilizar o computador para testar os programas, mas não pode passar 
    respostas para outros alunos. Quem fizer isto terá a prova imediatamente anulada.
@@ -114,13 +114,13 @@ resultado = 0
 termo = 1
 
 # Pytuguês
-enquanto x < 5:
+enquanto n < 5:
     n = n + 1
     termo = termo * x
     resultado = resultado + termo / n
 
 # Python
-while x < 5:
+while n < 5:
     n = n + 1
     termo = termo * x
     resultado = resultado + termo / n
