@@ -2,7 +2,7 @@
 Algoritmos e Programação de Computadores
 ========================================
 
-Importante: (notas da prova1)[notas-p1.pdf]
+Importante: [notas da prova1](notas-p1.pdf)
 
 Este é o Git da disciplina Algoritmos e Programação de Computadores. Aqui será 
 compartilhado o material produzido em sala de aula assim como tarefas, wiki e 
