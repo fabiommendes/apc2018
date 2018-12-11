@@ -105,7 +105,7 @@ def pong(x):
 Calcule os valores de:
 a) pong(1), ping(1), pong(2), ping(2), pong(3), ping(3)
 b) Represente graficamente como se calcularia o valor de ping(3). Dica: podemos representar as chamadas de função como uma árvore.
-c) Explique porque a dupla ping/pong, do modo que foi definida é muito ineficiente computacionalmente. Dica: conte como o número de passos cresce de ping(2) para ping(2) e estrapole como este valor aumenta para argumentos maiores.
+c) Explique porque a dupla ping/pong, do modo que foi definida é muito ineficiente computacionalmente. Dica: conte como o número de passos cresce de ping(2) para ping(2) e extrapole como este valor aumenta para argumentos maiores.
 
 
 ### Bônus Extra (+2pts ou vale como questão de programação de 4pts)
